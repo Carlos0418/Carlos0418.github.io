@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/FavoritePlacesToEat.md">Favorite Places To Eat</a>
 
-<a href="https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/CodeBlock.md#code-block">Code Block</a>
+<a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/CodeBlock.md#code-blockhomeprintmy-name-is-carlos-valdezprinti-love-sportsprintmy-favorite-sports-are-football-and-basketballprinti-love-hikinginputpress-enter-to-exit">Code Block</a>
 
 <a href="https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Career.md#middle-school-teacher">Career</a>
 
