@@ -12,5 +12,5 @@
 
 <a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/Cancun.md#cancunhomeover-the-summer-i-was-invited-to-a-wedding-out-in-cancun-mexico-we-were-down-there-for-a-week-just-enjoying-the-weather-and-having-a-good-time-the-beach-was-amazing-and-the-food-was-outstanding-i-hope-to-go-back-sometime-but-not-before-i-travel-to-a-new-place-to-explore-">Cancun</a>
 
-<a href="https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/FunFact.md#coke-and-mentos">Fun Fact</a>
+<a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/Coke%20and%20Mentos.md#coke-and-mentoshomedid-you-know-that-the-science-behind-the-coke-and-mentos-experiment-is-because-of-something-called-nucleation-sites-that-are-on-the-surface-of-the-mentos-nucleation-sites-is-very-comparable-to-craters-that-are-on-the-moon-but-a-lot-smaller-what-happens-is-the-carbon-dioxide-in-the-soda-interacts-with-the-nucleation-sites-causing-it-to-foam-up-and-spurt-out-of-the-bottle-the-reason-we-use-diet-coke-rather-than-regualr-coke-is-because-diet-coke-has-way-less-sugar-the-sugar-molecules-are-thick-and-when-the-mentos-are-dropped-into-the-regualr-coke-they-prevent-the-carbon-dioxide-from-escaping-">Fun Fact</a>
 
