@@ -1,6 +1,6 @@
 <h2>Cancun
 
-<a href="">Home</a>
+<a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/README.md#infotc-1000-final_project">Home</a>
 
 <p>Over the summer I was invited to a wedding out in Cancun, Mexico! We were down there for a week just enjoying the weather and having a good time! The beach was amazing and the food was outstanding! I hope to go back sometime, but not before I travel to a new place to explore. 
 
