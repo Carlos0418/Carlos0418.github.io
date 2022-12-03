@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/CodeBlock.md#code-blockhomeprintmy-name-is-carlos-valdezprinti-love-sportsprintmy-favorite-sports-are-football-and-basketballprinti-love-hikinginputpress-enter-to-exit">Code Block</a>
 
-<a href="https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Career.md#middle-school-teacher">Career</a>
+<a href="https://github.com/Carlos0418/Final-Project-INFOTC-1000/blob/main/Career.md#middle-school-teachercareermy-goal-is-to-obtain-my-bachelors-and-persue-an-oppurtunity-to-teach-i-have-always-wanted-to-teach-because-i-love-to-help-others-growing-up-i-had-a-fantastic-math-teacher-that-really-paved-the-way-for-my-passion-">Career</a>
 
 <a href="https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Vaca.md#cancun">Cancun</a>
 
